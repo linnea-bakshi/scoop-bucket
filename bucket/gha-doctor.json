@@ -1,16 +1,16 @@
 {
-    "version": "0.41.0",
+    "version": "0.42.0",
     "description": "Diagnose GitHub Actions: flaky jobs, wasted minutes, cache misses, anti-patterns",
     "homepage": "https://github.com/linnea-bakshi/gha-doctor",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/linnea-bakshi/gha-doctor/releases/download/v0.41.0/gha-doctor_0.41.0_windows_amd64.zip",
-            "hash": "2a279987f8fb81c9ee571d889403e549c057fbcb14ca6e42a4fe924b701f77c2"
+            "url": "https://github.com/linnea-bakshi/gha-doctor/releases/download/v0.42.0/gha-doctor_0.42.0_windows_amd64.zip",
+            "hash": "3d800cf8e7afa5885f8efc1b7f7bea8a5553721ce25f3beb06530e6ddf10f8d3"
         },
         "arm64": {
-            "url": "https://github.com/linnea-bakshi/gha-doctor/releases/download/v0.41.0/gha-doctor_0.41.0_windows_arm64.zip",
-            "hash": "b468ee0d0cf583d40d5c14bb52cd531b85e9f7427fb3a0523928f14bd7323241"
+            "url": "https://github.com/linnea-bakshi/gha-doctor/releases/download/v0.42.0/gha-doctor_0.42.0_windows_arm64.zip",
+            "hash": "fad8bff934ea8f9981470487cfa398d2d546ac95556f05f85a89f861d6701b81"
         }
     },
     "bin": "gha-doctor.exe",
